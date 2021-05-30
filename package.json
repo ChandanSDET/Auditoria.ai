@@ -1,0 +1,14 @@
+{
+  "name": "auditoria_assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/auditoria_assignmnet.js"
+  },
+  "author": "Chandan",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemailer": "^6.6.1"
+  }
+}
